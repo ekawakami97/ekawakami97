@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Eri Kawakami. I work as a Data Analyst at Community.com
+- 👋 Hi, my name is Eri Kawakami. I work as an Analytics Engineer at Veronica Beard.
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eri-kawakami/) or shoot me an email at ekawakami97@gmail.com
 
 <!---
