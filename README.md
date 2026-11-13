@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Eri Kawakami. I work as an Analytics Engineer at Veronica Beard.
+- 👋 Hi, my name is Eri Kawakami. I work as an Analytics Engineer at David Yurman.
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eri-kawakami/) or shoot me an email at ekawakami97@gmail.com
 
 <!---
